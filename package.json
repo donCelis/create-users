@@ -1,0 +1,14 @@
+{
+  "name": "my-json-server",
+  "version": "1.0.0",
+  "description": "JSON server with authentication",
+  "main": "auth-middleware.js",
+  "type": "module",
+  "scripts": {
+    "start": "node auth-middleware.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
+  }
+}

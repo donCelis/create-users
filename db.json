@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "user1@example.com",
+      "password": "password123",
+      "name": "User One"
+    },
+    {
+      "email": "newuser@example.com",
+      "password": "$2a$10$KgReFe2Gf4boB7Y8K.dwHONXT31mfzh9PRZu5pdFOPCjPUw/fbJz2",
+      "name": "New User",
+      "id": 2
+    },
+    {
+      "email": "correo_sanchez@example.com",
+      "password": "$2a$10$IJB07PqAdrcu2W1vQuog3eimWtmcdaqitdpzJ9EzAFeaXxhnxashK",
+      "name": "Sanchez",
+      "id": 3
+    }
+  ]
+}
